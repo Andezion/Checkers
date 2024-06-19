@@ -2,6 +2,7 @@
 This is a small Checkers project for two players.
 ## Table of contents
 * [General info](#general-info)
+* [Gameplay](#gameplay)
 * [Technologies and features](#technologies-and-features)
 * [Setup](#setup)
 
@@ -70,6 +71,10 @@ if (gameInProgress) {
 ```
 
 You can see the rest directly in the code!
+
+## Gameplay
+
+https://github.com/Andezion/Checkers/assets/115638748/a7387738-24bb-46a4-b59a-829493d5b32d
 
 ## Technologies and features
 Project is created with:
